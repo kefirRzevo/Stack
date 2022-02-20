@@ -11,7 +11,7 @@ Everything you need to test my stack, is just copying these next strings to your
 For usage:
 
 ```
-git clone https://github.com/GermanAreYouCrazy/Stack.git
+git clone https://github.com/kefirRzevo/Stack.git
 cd Stack
 make
 ```
