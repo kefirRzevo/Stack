@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is a repository for my stack. 
+This is my own version of typical data structure - stack. You can use canary or hash protection in file config.h. There is a dump in logfiles directory. 
 
 ## How to use
 
-Everything you need to test my stack, is just copying these next strings to your terminal/console.
+Everything you need to test my stack, is just copying For usage in your terminal/console.
 
 For usage:
 
